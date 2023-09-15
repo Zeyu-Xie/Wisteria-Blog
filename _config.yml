@@ -1,17 +1,14 @@
-title: Your Site Title
-description: The description of your site.
-email: your-email@address.com
+title: Wisteria Blog
+description: Welcome to Wisteria Blog!
+email: xie.zeyu20@gmail.com
 
-author: Your name #  Default is your site title.
+author: Acan #  Default is your site title.
 
 # Your social accounts.
 social:
-  github: github_username
-  twitter: twitter_username
-  facebook: facebook_username
-  instagram: instagram_username
-  linkedin: linkedin_username
-  weibo: weibo_username
+  github: Zeyu-Xie
+  twitter: AcanXie
+  instagram: acanxie
 
 # # Theme Settings
 
