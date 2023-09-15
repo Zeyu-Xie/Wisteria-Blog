@@ -1,2 +1,0 @@
-# Wisteria-Blog
-My Blog
