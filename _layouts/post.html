@@ -8,7 +8,7 @@ layout: default
     <nav class="post__archive_path">
       {%- assign blog_page_path = site.theme_setting.blog_page | default: "index.md" %}
       {%- assign blog_page = site.pages | where: "path", blog_page_path | first -%}
-      <a href="{{ site.url | relative_url }}" id="archiveBtn">
+      <a href="{{ "/" | relative_url }}" id="archiveBtn">
         <div class="post__archive_icon">
           <svg width="40" height="40">
             <circle class="circle-progress" r="18" cy="20" cx="20"  stroke-linejoin="round" stroke-linecap="round" />
