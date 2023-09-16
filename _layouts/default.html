@@ -1,7 +1,10 @@
 <!DOCTYPE html>
+<link rel="icon" type="image/x-icon" href="{{ 'favicon.ico' | relative_url }}">
 <html lang="{{ site.locale | default: 'en' }}">
-  {%- include head.html -%}
-  <body class="body-{{ page.layout }}">
-    {{ content }}
-  </body>
+{%- include head.html -%}
+
+<body class="body-{{ page.layout }}">
+  {{ content }}
+</body>
+
 </html>
