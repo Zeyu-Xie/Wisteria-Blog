@@ -2,6 +2,7 @@
 layout: post
 title:  "理发"
 date:   2022-11-04 23:07:00 +0100
+author: Acan
 categories: DIARY
 ---
 

@@ -2,6 +2,7 @@
 layout: post
 title:  "大雪三日"
 date:   2022-12-12 23:27:00 +0100
+author: Acan
 categories: DIARY
 ---
 
