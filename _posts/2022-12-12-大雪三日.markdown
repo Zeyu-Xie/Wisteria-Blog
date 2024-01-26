@@ -5,7 +5,7 @@ date:   2022-12-12 23:27:00 +0100
 author: Acan
 categories: DIARY
 customized_background: true
-customized_background_url: https://raw.githubusercontent.com/Zeyu-Xie/Wisteria-Blog/main/assets/image/bg-1.jpg
+customized_background_url: /assets/image/bg-1.jpg
 ---
 
 大概两个月前开心地加入了全瑞典学联，稀里糊涂被学长学姐们请去乡月吃饭。吃完了以后也基本熟悉，就向学长打探瑞典的冬天，是不是如传说中一般死寂、冷酷乃至抑郁，学长点头，“像你们第一年来这儿就还好，要是第二年在这儿过冬就感觉难受了……”
