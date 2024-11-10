@@ -1,2 +1,3 @@
 # Wisteria-Blog
-My Blog
+
+A website — my personal blog.
